@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdamAsmaca/static/css/main.3a16979d.css",
+    "main.js": "/AdamAsmaca/static/js/main.84617bb9.js",
+    "index.html": "/AdamAsmaca/index.html",
+    "main.3a16979d.css.map": "/AdamAsmaca/static/css/main.3a16979d.css.map",
+    "main.84617bb9.js.map": "/AdamAsmaca/static/js/main.84617bb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a16979d.css",
+    "static/js/main.84617bb9.js"
+  ]
+}
